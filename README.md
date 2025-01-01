@@ -4,7 +4,8 @@
   <br>
   I'm Pratham. When not coding, catch me reading books or devising diy projects.
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=4000&pause=1000&color=D16AFF&size=16&width=520&center=true&lines=I+code+with+purpose%2C+shaping+pixels+and+possibilities%2C+;and+unravel+the+mysteries+of+technology." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=4000&pause=1000&color=FF9800&size=16&width=520&center=true&lines=Simplifying+complexity.;Building+what+matters.;OpenSource+ML+in+Python.;Game+Engines+and+Beyond." />
+
   <br>
 </b></samp></p>
 
