@@ -1,12 +1,11 @@
-<!-- Inspiration: https://github.com/Waishnav -->
 <p align="center"><samp><b>
-  What's up, fellow developers?
+  Heyyy, fellow open sourcers! 🚀
   <br>
-  I'm Pratham. When not coding, catch me reading books or devising diy projects.
+  I'm Pratham—an open-source explorer and contributor!
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=4000&pause=1000&color=FF9800&size=16&width=520&center=true&lines=Simplifying+complexity.;Building+what+matters.;OpenSource+ML+in+Python.;Game+Engines+and+Beyond." />
-
+  When I'm not buried in code, you'll find me vibing to music, lost in books, or on a movie binge. 
   <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=4000&pause=1000&color=FF9800&size=16&width=520&center=true&lines=Simplifying+complexity.;Building+what+matters.;Open-source+ML+in+Python.;Game+Engines+and+Beyond.;Crafting+CLI+tools.;Hacking+away+at+cool+projects." />
 </b></samp></p>
 
 <br>
